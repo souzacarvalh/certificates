@@ -1,0 +1,16 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://souzacarvalh.github.io/certificates/soa/assertion.json",
+  "recipient": {
+    "type": "email",
+    "hashed": false,
+    "identity": "souzacarvalh@gmail.com"
+  },
+  "badge": "https://souzacarvalh.github.io/certificates/soa/badge.json",
+  "verification": {
+    "type": "hosted"
+  },
+  "issuedOn": "2008-01-01T00:00:00Z",
+  "image": "https://souzacarvalh.github.io/certificates/soa/ibm-certified-soa-associate.png"
+}
