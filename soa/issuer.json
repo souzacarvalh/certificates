@@ -1,9 +1,0 @@
-{
-  "@context": "https://w3id.org/openbadges/v2",
-  "type": "Issuer",
-  "id": "https://souzacarvalh.github.io/certificates/soa/issuer.json",
-  "name": "IBM Professional Certification - archival record (self-hosted)",
-  "description": "Self-hosted archival record of credentials earned through the IBM Professional Certification Program. This is not an official IBM badge issuer; the original certification was granted by IBM and is documented in the holder's IBM Training transcript.",
-  "url": "https://souzacarvalh.github.io/certificates/",
-  "email": "carvalhof@aljazeera.net"
-}
