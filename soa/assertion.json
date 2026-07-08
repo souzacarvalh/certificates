@@ -12,5 +12,6 @@
     "type": "hosted"
   },
   "issuedOn": "2008-01-01T00:00:00Z",
+  "expires": "2016-09-30T00:00:00Z",
   "image": "https://souzacarvalh.github.io/certificates/soa/ibm-certified-soa-associate.png"
 }
